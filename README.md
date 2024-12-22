@@ -15,3 +15,6 @@
 ## управление 
 Ввод чисел: введите ваше предположение и нажмите Enter.
 ## скриншоты
+![слишком мало](https://github.com/user-attachments/assets/f52de6f5-c320-475d-a839-fb071fb5005d)
+![слишком много](https://github.com/user-attachments/assets/48649115-4fc4-4f60-a88b-244254279626)
+![харош угадал](https://github.com/user-attachments/assets/1468eced-55ab-4faf-ba19-cea3c7efe733)
